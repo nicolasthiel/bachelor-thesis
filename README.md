@@ -8,7 +8,7 @@ Maastricht, The Netherlands
 This repository contains MATLAB scripts to run the experiments and reproduce the results presented in the thesis paper.
 
 ## Dependencies
-In order to execute the scripts *MATLAB_R2024a* and following toolboxes need to be installed
+In order to execute the scripts *MATLAB_R2024a* or newer and following toolboxes need to be installed
 - *bioinformatics_toolbox*
 - *statistics_toolbox*
 - *symbolic_toolbox*
